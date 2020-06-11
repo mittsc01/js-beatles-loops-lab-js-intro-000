@@ -12,7 +12,7 @@ function johnLennonFacts(facts){
   let newstr;
   let arr=[]
   while (let i<facts.length){
-    newstr=facts[i]+"!";
+    newstr=facts[i]+"!!!";
     arr.push(newstr)
     i++
   }
