@@ -13,8 +13,8 @@ function johnLennonFacts(facts){
   let arr=[]
   while (let i=0; i<facts.length){
     newstr=facts[i]+"!!!";
-    arr.push(newstr)
-    i++
+    arr.push(newstr);
+    i++;
   }
   return arr
 }
